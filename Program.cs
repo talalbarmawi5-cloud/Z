@@ -1,1 +1,2 @@
-﻿Console.WriteLine(2);
+﻿string a= "talal";
+Console.WriteLine(a);
