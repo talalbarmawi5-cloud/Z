@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Zaman/bin/Debug/net10.0/Zaman
+/Users/talal/Desktop/Zaman/bin/Debug/net10.0/Zaman.deps.json
+/Users/talal/Desktop/Zaman/bin/Debug/net10.0/Zaman.runtimeconfig.json
+/Users/talal/Desktop/Zaman/bin/Debug/net10.0/Zaman.dll
+/Users/talal/Desktop/Zaman/bin/Debug/net10.0/Zaman.pdb
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.AssemblyInfo.cs
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.sourcelink.json
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.dll
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/refint/Zaman.dll
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.pdb
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/Zaman.genruntimeconfig.cache
+/Users/talal/Desktop/Zaman/obj/Debug/net10.0/ref/Zaman.dll
