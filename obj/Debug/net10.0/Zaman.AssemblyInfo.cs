@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zaman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6001fc87275b55cf113226ac4fe72d004a2c9e58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac34dd0baa9bf5d39209959f4256fb0a9d73253b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zaman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zaman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
